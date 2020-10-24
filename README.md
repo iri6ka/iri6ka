@@ -6,6 +6,8 @@ I am a public relations and marketing specialist in the past, so feel free to re
 
 Speaking: :ru:  Russian and :uk:  English
 
+A lover of photography, travelling and snowboards. 
+
 P.S. Pretty excited to create this customised profile on GitHub :stuck_out_tongue_winking_eye:. 
 
 Cheers!
