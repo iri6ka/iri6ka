@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-12T12:41:08.628Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="czZGDGRC1FL0wBV0UsZa" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-12T12:43:04.394Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="PcBj8OD2SM5b_-1rQ166" version="13.10.9" type="github">
   <diagram id="MsivO8KTLnRSj79RNSYw" name="Page-1">
-    <mxGraphModel dx="925" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1572" dy="966" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -128,8 +128,10 @@
         <mxCell id="u9vrd8AwZ9Mhj5PSegty-35" value="Showing weather for 3 days at XXX location" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u9vrd8AwZ9Mhj5PSegty-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="u9vrd8AwZ9Mhj5PSegty-36" target="u9vrd8AwZ9Mhj5PSegty-50">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="u9vrd8AwZ9Mhj5PSegty-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="u9vrd8AwZ9Mhj5PSegty-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="720" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="u9vrd8AwZ9Mhj5PSegty-54" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u9vrd8AwZ9Mhj5PSegty-53">
           <mxGeometry x="-0.2765" y="-1" relative="1" as="geometry">
@@ -160,9 +162,6 @@
         </mxCell>
         <mxCell id="u9vrd8AwZ9Mhj5PSegty-49" value="Help" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="890" y="570" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="u9vrd8AwZ9Mhj5PSegty-50" value="EXIT &lt;br&gt;Ok, bye&lt;br&gt;see you soon. See you very soon!" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u9vrd8AwZ9Mhj5PSegty-56" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="525" y="740" width="30" height="20" as="geometry" />
@@ -203,6 +202,9 @@
         </mxCell>
         <mxCell id="u9vrd8AwZ9Mhj5PSegty-57" value="Next steps:&lt;br&gt;1. Do another weather search&lt;br&gt;&lt;i&gt;2. Save your weather search (sprinkle)&lt;br&gt;&lt;/i&gt;3. exit&lt;br&gt;4. Help" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="980" width="460" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="u9vrd8AwZ9Mhj5PSegty-71" value="EXIT&lt;br&gt;ok, bye. See you soon. See you very soon! Take care" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="680" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
